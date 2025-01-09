@@ -137,4 +137,4 @@ if __name__ == "__main__":
 
     track_specs = generate_track_specs(tracks, note_counts, degrees, durations, volumes, channels)
 
-    generate_midi(tracks, tempo, time, track_specs, "generation/sad2")
+    generate_midi(tracks, tempo, time, track_specs, "generation/testing")
